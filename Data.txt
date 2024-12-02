@@ -1,0 +1,5 @@
+2,Barra de sonido,Tecnologia,1799000,23
+3,Mouse,Tecnologia,170000,40
+4,Sofa,Sala,4799000,15
+5,Estufa,Cocina,1800000,90
+90,Laptop,Tecnologia,2700000,22

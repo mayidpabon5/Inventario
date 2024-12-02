@@ -1,0 +1,13 @@
+----------------------------------------------------
+-             Reporte de inventario                -
+----------------------------------------------------
+Fecha de generación:Mon Dec 02 13:39:11 GMT-05:00 2024
+----------------------------------------------------
+2,Barra de sonido,Tecnologia,1799000,23
+3,Mouse,Tecnologia,170000,40
+4,Sofa,Sala,4799000,15
+5,Estufa,Cocina,1800000,90
+----------------------------------------------
+Total productos por categoria
+{Tecnologia=63, Sala=15, Cocina=90}
+Valor total del inventario: 282162000
